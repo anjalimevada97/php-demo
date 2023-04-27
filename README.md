@@ -1,4 +1,4 @@
-# PHP MySQL CRUD Application
+# PHP MySQL CRUD
 
 Git repository with the following command:
 
